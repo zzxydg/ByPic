@@ -1,0 +1,13 @@
+BOARD0
+Pin_15 (RB13) = CS0 = Blue
+Pin_16 (RB14) = WR = Purple
+Pin_17 (RB15) = DATA = Grey
+Pin_19 (+3V3) = VCC = White
+Pin_20 (GND) = GND = Black
+
+BOARD1
+Pin_14 (RB12) = CS1 = Blue
+Pin_16 (RB14) = WR = Purple
+Pin_17 (RB15) = DATA = Grey
+Pin_19 (+3V3) = VCC = White
+Pin_20 (GND) = GND = Black
