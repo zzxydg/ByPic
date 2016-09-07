@@ -3,6 +3,8 @@ Respository for BV508 code
 
 The contains code for the BV508 ByPic module that is used to drive a HT1632C module.
 
+A YouTube demo of the BV508 running being driven by Python over USB UART can be found on YouTube here https://youtu.be/RWhuOXjilk8
+
 The BV508 module is available to purchase here: http://www.byvac.com/bv3/index.php?route=product/product&product_id=172
 
 The BV508 module runs The ByPic language.
